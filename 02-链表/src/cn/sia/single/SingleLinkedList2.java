@@ -1,14 +1,16 @@
-package cn.sia;
+package cn.sia.single;
+
+import cn.sia.AbstractList;
 
 /**
  * 增加一个虚拟头结点
  * @param <E>
  */
 
-public class LinkedList2<E> extends AbstractList<E> {
+public class SingleLinkedList2<E> extends AbstractList<E> {
     private Node<E> first;
 
-    public LinkedList2 () {
+    public SingleLinkedList2() {
         first = new Node<>(null, null);
     }
 
