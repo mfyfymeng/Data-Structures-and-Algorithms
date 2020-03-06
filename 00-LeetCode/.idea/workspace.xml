@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0cef42d-edce-4a9a-bc6e-7f700894ae01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/链表/_203_移除链表元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-动态数组/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-动态数组/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-动态数组/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-动态数组/src/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +25,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1YN8sGvlWXsdrPlrQZnRo2VLAqI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,6 +54,7 @@
       <workItem from="1582772347236" duration="6065000" />
       <workItem from="1582784715474" duration="22000" />
       <workItem from="1582871035061" duration="44000" />
+      <workItem from="1583503600712" duration="2060000" />
     </task>
     <servers />
   </component>
