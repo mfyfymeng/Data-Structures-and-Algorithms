@@ -1,5 +1,8 @@
 package cn.sia;
 
+import cn.sia.circle.CircleLinkedList;
+import cn.sia.circle.SingleCircleLinkedList;
+
 public class Main {
 
     static void testList (List<Integer> list) {
@@ -27,7 +30,12 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        testList(new ArrayList<>());
-        testList(new LinkedList<>());
+//        testList(new ArrayList<>());
+//        testList(new LinkedList<>());
+
+//        testList(new SingleCircleLinkedList<>());
+
+        testList(new CircleLinkedList<>());
+
     }
 }
