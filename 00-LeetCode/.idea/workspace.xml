@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0cef42d-edce-4a9a-bc6e-7f700894ae01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/链表/_203_移除链表元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01-动态数组/src/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01-动态数组/src/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01-动态数组/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01-动态数组/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/_20_有效的括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/_856_括号的分数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/_83_删除链表中的重复元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-栈/src/cn/sia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-栈/src/cn/sia/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-栈/src/cn/sia/list/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-栈/src/cn/sia/list/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-栈/src/cn/sia/list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-栈/src/cn/sia/list/List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
@@ -54,21 +59,48 @@
       <workItem from="1582772347236" duration="6065000" />
       <workItem from="1582784715474" duration="22000" />
       <workItem from="1582871035061" duration="44000" />
-      <workItem from="1583503600712" duration="2060000" />
+      <workItem from="1583503600712" duration="2231000" />
+      <workItem from="1583566512110" duration="24000" />
+      <workItem from="1583643134358" duration="3871000" />
+      <workItem from="1583839476578" duration="1782000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1583506186792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583506186792</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Notifications" timestamp="1582771946868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1582771946868" />
+    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1583506186214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583506186214" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1582784735540">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582784735540" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583506252825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583506252825" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583839602220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583839602220" />
   </component>
 </project>
